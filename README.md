@@ -1,4 +1,4 @@
-# Desafios do Módulo 2 - A dupla HTML e CSS
+# Desafios do Módulo 2 - A dupla HTML e CSS.
 
 1) **Criando um botão estilizado com CSS.**
 
